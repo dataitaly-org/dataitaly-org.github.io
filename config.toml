@@ -1,0 +1,8 @@
+title = "DataItaly"
+baseURL = "https://dataitaly.org/"
+languageCode = "it"
+theme = "ananke"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/dataitaly-org/dataitaly"
