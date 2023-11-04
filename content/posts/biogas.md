@@ -20,6 +20,16 @@ Snam Rete Gas, nella sua pianificazione decennale, ha previsto uno sviluppo dell
 
 Il biometano può contribuire alla decarbonizzazione del mix di generazione elettrico e all'ottimizzazione dei costi di integrazione delle fonti rinnovabili. La produzione potenziale di biometano per l'Italia al 2035 è stimata in 9 miliardi di metri cubi, secondo Snam Rete Gas, il che potrebbe contribuire in modo decisivo alla decarbonizzazione dell'intero sistema energetico.
 
+## Francia
+
+La Francia mette a disposizione statistiche dettagliate relative alla produzione nazionale di biometano e all'importazione di gas naturale.
+
+![Produzione nazionale di biometano e importazione di gas naturale in Francia](http://url/to/img.png)
+
+[Espandi](https://public.flourish.studio/visualisation/8821338/)
+
+Come si vede nel grafico, al 2020 la produzione di biometano era nettamente inferiore a qualsiasi importazione di gas naturale.
+
 ## Fonti
 - https://www.snam.it/it/i-nostri-business/biometano.html
 - https://www.compost.it/biometano/cose-il-biometano/#gli-impianti-di-biometano-soci-del-cic
