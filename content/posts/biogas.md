@@ -1,3 +1,7 @@
+---
+title: "Non solo trasporti: le potenzialità del biometano nella transizione energetica"
+date: 2023-11-08T09:09:20-08:00
+---
 Il biogas rappresenta una fonte energetica importante per il nostro futuro, poiché è una fonte rinnovabile che può essere prodotta da una varietà di fonti organiche. Il biogas è una miscela di metano, anidride carbonica e altre piccole quantità di gas, prodotta attraverso la digestione anaerobica della materia organica in un ambiente privo di ossigeno.
 
 Esistono tre tecnologie principali per produrre biogas: i biodigestori, i sistemi di recupero del gas di discarica e le centrali di trattamento delle acque reflue. Il contenuto di metano del biogas varia tra il 45% e il 75% in volume, il che significa che il suo contenuto energetico può variare.
@@ -24,7 +28,7 @@ Il biometano può contribuire alla decarbonizzazione del mix di generazione elet
 
 La Francia mette a disposizione statistiche dettagliate relative alla produzione nazionale di biometano e all'importazione di gas naturale.
 
-![Produzione nazionale di biometano e importazione di gas naturale in Francia](https://raw.githubusercontent.com/chirale/dataitaly/main/static/Biometano%20in%20Francia.png)
+![Produzione nazionale di biometano e importazione di gas naturale in Francia](/Biometano%20in%20Francia.png)
 
 [Espandi](https://public.flourish.studio/visualisation/8821338/)
 
