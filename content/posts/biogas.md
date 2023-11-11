@@ -28,7 +28,7 @@ Il biometano può contribuire alla decarbonizzazione del mix di generazione elet
 
 La Francia mette a disposizione statistiche dettagliate relative alla produzione nazionale di biometano e all'importazione di gas naturale.
 
-![Produzione nazionale di biometano e importazione di gas naturale in Francia](/Biometano%20in%20Francia.png)
+<a href="https://public.flourish.studio/visualisation/8821338/">![Produzione nazionale di biometano e importazione di gas naturale in Francia](/Biometano%20in%20Francia.png)</a>
 
 [Espandi](https://public.flourish.studio/visualisation/8821338/)
 
