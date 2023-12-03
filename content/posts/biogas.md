@@ -6,6 +6,8 @@ Nella lotta al cambiamento climatico si parla molto spesso dell'anidride carboni
 
 La concentrazione di metano nell'atmosfera è circa 2,5 volte superiore ai livelli preindustriali, con un aumento accelerato negli ultimi anni. Le incerte stime delle emissioni di metano suggeriscono che circa il 60% provenga da attività umane suddivise principalmente tra combustibili fossili, rifiuti e agricoltura.
 
+[![Sources of methane emissions, 2021](/IEA_Sources_of_methane_emissions.png)](https://www.iea.org/data-and-statistics/charts/sources-of-methane-emissions-2021)
+
 In particolare un inadeguato trattamento dei rifiuti, delle acque reflue e degli scarti delle attività agricole causa la dispersione di questo gas climalterante.
 
 ## Da rifiuto a risorsa
@@ -28,7 +30,7 @@ Anche se l'uso del biogas e del biometano può rappresentare una soluzione prome
 
 In Italia, il biogas è considerato una fonte rinnovabile di energia programmabile che può essere utilizzata nei trasporti, nella generazione elettrica e vettoriata attraverso la rete di trasporto gas. 
 
-Il Consorzio Italiano Compostatori contava 12 impianti di digestione anaerobica (fine 2020) e compostaggio sul territorio mentre gli impianti per il processamento del biometano elencati nella lista del Joint Research Centre europeo contava 7 impianti (2020).
+Nel 2020 il Consorzio Italiano Compostatori contava 12 impianti di digestione anaerobica e compostaggio sul territorio mentre nello stesso anno erano 7 gli impianti per il processamento del biometano elencati nella lista del Joint Research Centre europeo.
 
 Snam Rete Gas, nella sua pianificazione decennale, ha previsto uno sviluppo della produzione di biometano fino a circa 2,5 miliardi di metri cubi al 2035, destinati all'utilizzo come biocarburante nei trasporti per soddisfare gli obblighi europei di consumo di biocarburanti sostenibili nel settore dei trasporti. 
 
