@@ -17,6 +17,8 @@ Le serie di dati hanno inizio il giorno 24 febbraio 2020 e sono disponibili in f
 
 Per maggiori dettagli sul significato dei vari campi si può consultare lo [schema dei dati](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-covid19-italia.md) disponibile nello stesso repository. Sulla base di questo dataset, il Ministero della Salute realizza la scheda [Aggiornamento casi Covid-19](https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/schede-riepilogative/regioni/dpc-covid19-ita-scheda-regioni-latest.pdf) spesso rilanciata da diversi organi di informazione.
 
+{{< chart id="chart1" csvfile="data.csv" >}}
+
 ### Dati della Sorveglianza integrata COVID-19
 
 L'Istituto Superiore di Sanità (ISS) pubblica invece i **Dati della Sorveglianza integrata COVID-19** all'interno di un cruscotto informativo ed in un file Excel disponibili presso: [https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard](https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard). Da settembre 2023 l'ISS ha cambiato la frequenza di aggiornamento dei dati della sorveglianza integrata COVID-19 a cadenza settimanale (ogni giovedì) e ha eliminato alcuni fogli dati dai suoi open data.

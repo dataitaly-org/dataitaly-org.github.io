@@ -1,0 +1,46 @@
+<canvas id="{{ .Get "id" }}" width="400" height="400"></canvas>
+
+<script>
+async function getChartData() {
+    const response = await fetch('/datasets/{{ .Get "csvfile" }}');
+    const data = await response.text();
+    const rows = data.split('\n').slice(1);
+    const dates = [];
+    const values = [];
+
+    rows.forEach(row => {
+        const cols = row.split(',');
+        dates.push(cols[0]);
+        values.push(cols[1]);
+    });
+
+    return { dates, values };
+}
+
+async function createChart() {
+    const { dates, values } = await getChartData();
+    const ctx = document.getElementById('{{ .Get "id" }}').getContext('2d');
+    const myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: dates,
+            datasets: [{
+                label: 'Valore',
+                data: values,
+                backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+}
+
+createChart();
+</script>
