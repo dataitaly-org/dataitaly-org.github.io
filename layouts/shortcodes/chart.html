@@ -1,41 +1,54 @@
-<canvas id="{{ .Get "id" }}" width="400" height="400"></canvas>
+<p><canvas id="{{ .Get "id" }}"></canvas></p>
 
 <script>
 async function getChartData() {
     const response = await fetch('/datasets/{{ .Get "csvfile" }}');
     const data = await response.text();
-    const rows = data.split('\n').slice(1);
-    const dates = [];
-    const values = [];
+    const rows = data.split('\n');
+    const headers = rows[0].split(',').slice(1);
+    const labels = [];
+    const series = headers.map(() => []);
 
-    rows.forEach(row => {
+    rows.slice(1).forEach(row => {
         const cols = row.split(',');
-        dates.push(cols[0]);
-        values.push(cols[1]);
+        labels.push(cols[0]);
+        cols.slice(1).forEach((value, index) => {
+            series[index].push(value);
+        });
     });
 
-    return { dates, values };
+    return { labels, series, headers };
 }
 
 async function createChart() {
-    const { dates, values } = await getChartData();
+    const { labels, series, headers } = await getChartData();
     const ctx = document.getElementById('{{ .Get "id" }}').getContext('2d');
+    
+    const datasets = series.map((data, index) => {
+        return {
+            label: headers[index],
+            data: data,
+            borderWidth: 1,
+            pointRadius: 0
+        };
+    });
+
     const myChart = new Chart(ctx, {
-        type: 'line',
+        type: '{{ .Get "type" }}',
         data: {
-            labels: dates,
-            datasets: [{
-                label: 'Valore',
-                data: values,
-                backgroundColor: 'rgba(255, 99, 132, 0.2)',
-                borderColor: 'rgba(255, 99, 132, 1)',
-                borderWidth: 1
-            }]
+            labels: labels,
+            datasets: datasets
         },
         options: {
             scales: {
                 y: {
                     beginAtZero: true
+                }
+            },
+            plugins: {
+                title: {
+                    display: true,
+                    text: '{{ .Get "title" }}'
                 }
             }
         }
@@ -43,4 +56,5 @@ async function createChart() {
 }
 
 createChart();
+
 </script>

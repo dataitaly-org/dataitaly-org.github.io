@@ -17,7 +17,9 @@ Le serie di dati hanno inizio il giorno 24 febbraio 2020 e sono disponibili in f
 
 Per maggiori dettagli sul significato dei vari campi si può consultare lo [schema dei dati](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-covid19-italia.md) disponibile nello stesso repository. Sulla base di questo dataset, il Ministero della Salute realizza la scheda [Aggiornamento casi Covid-19](https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/schede-riepilogative/regioni/dpc-covid19-ita-scheda-regioni-latest.pdf) spesso rilanciata da diversi organi di informazione.
 
-{{< chart id="chart1" csvfile="data.csv" >}}
+{{< chart id="positivi" type="line" csvfile="covid/positivi.csv" title="Numero di positivi per data" >}}
+
+{{< chart id="ospedalizzati" type="line" csvfile="covid/ospedalizzati.csv" title="Numero di ospedalizzati per data" >}}
 
 ### Dati della Sorveglianza integrata COVID-19
 
