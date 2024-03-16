@@ -1,3 +1,8 @@
+---
+title: "La raccolta degli oli alimentari usati in Italia"
+date: 2024-03-16
+---
+
 In Italia vengono utilizzate circa 1,4 miloni di tonnellate di olio da cucina all'anno. Una volta consumato, l'olio commestibile usato è catalogato come rifiuto urbano non pericoloso, CER EU 20 01 25.
 
 Lo sversamento nel suolo provoca la formazione di una pellicola sottile che impedisce l'assorbimento di sostanze nutritive da parte delle piante e danneggia le radici capillari. Se riversati in mare, gli oli formano una patina che ostacola il passaggio dei raggi solari, danneggiando gli ecosistemi marini. Quando entrano in contatto con le falde acquifere, rendono non potabile l'acqua. 
