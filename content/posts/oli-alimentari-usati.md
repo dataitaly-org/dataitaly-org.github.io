@@ -17,15 +17,19 @@ https://public.flourish.studio/visualisation/17154077/
 
 La raccolta per le attività commerciali e industriali è obbligatoria mentre per il cittadino è facoltativa. I consorzi sono nati storicamente per coprire la raccolta dalla ristorazione, dall'industria e dall'artigianato e non le utenze domestiche la quale raccolta ricade sotto un regime di privativa comunale.
 
-Negli ultimi anni i consorzi stanno provando ad aumentare la raccolta domestica, con risultati più felici al nord rispetto al centro-sud.
+In base ai dati (3) disponibili al pubblico questo era il quadro della raccolta al 2020:
 
-In base ai dati (3) disponibili al pubblico questo è il quadro della raccolta:
-
-https://public.flourish.studio/visualisation/17180732/
+[![Raccolta degli oli alimentari usati (2020)](/flourish-17180732.png)](https://public.flourish.studio/visualisation/17180732/)
 
 Si nota come la maggior parte del rifiuto prodotto delle attività economiche, soggette ad obblighi, venga raccolta mentre sia scarsissimo l'apporto alla raccolta dato dalle utenze domestiche.
 
 I dati sulla raccolta, ricavati dalle percentuali indicati nel dossier, differiscono per sole 192 tonnellate (0,16%) dai dati ritrovabili per il 2020 nel grafico precedente basato sui valori assoluti dichiarati dai consorzi.
+
+Nel 2022 su 300.000 t stimate circa un terzo del rifiuto (97.000 t) veniva riciclato:
+
+[![Raccolta degli oli alimentari usati (2022)](/flourish-17185050.png)](https://public.flourish.studio/visualisation/17185050/)
+
+Negli ultimi anni i consorzi stanno provando ad aumentare la raccolta domestica, con risultati più felici al nord rispetto al centro-sud, come si può sentire in [questa tavola rotonda](https://www.youtube.com/watch?v=C8NNbwsbI5Q) che ha coinvolto fra gli altri i due rappresentanti dei consorzi Conoe e RenOils e i gestori dell'app Junker per la raccolta differenziata.
 
 1. [a](https://www.conoe.it/wp-content/uploads/2016/06/Rassegna-Eni-Conoe_maggio-2017.pdf)
 2. Elaborazione da dati CONOE e RenOils. Per gli anni 2012, 2013 e 2019 per il CONOE è stato riportato il dato dell'anno precedente in assenza del dato. [b](http://www.conoe.it/wp-content/uploads/2016/06/RaccoltastampaConoeevento7giugno2016.pdf), [c](https://www.conoe.it/wp-content/uploads/2020/11/Il-contributo-di-Conoe-alla-Green-Economy-scaricato-da-Sviluppo-Sostenibile.pdf), [d](http://www.conoe.it/wp-content/uploads/2018/11/ANNUAL-REPORT-2018.pdf), [e](https://www.smaltimento-rifiuti-sicilia.it/wp-content/uploads/2020/01/Schede-Sintetiche_Italia-del-riciclo-2019.pdf), [f](https://www.renoils.it/renoils-raccolte-in-italia-49-075-tonnellate-di-oli-alimentari-esausti/), [g](https://www.renoils.it/renoils-raccolte-in-italia-49-075-tonnellate-di-oli-alimentari-esausti/), [h](https://www.adnkronos.com/economia/rifiuti-conoe-raccolte-80mila-tonnellate-di-olio-esausto-nel-2022_5h3q5AYfRczKViTCupWwr2), [i](https://www.impresagreen.it/news/12475/renoils-in-italia-raccolte-53000-tonnellate-di-oli-alimentari-esausti.html)
