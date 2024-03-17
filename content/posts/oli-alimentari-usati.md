@@ -11,6 +11,8 @@ Per organizzare, controllare e monitorare la filiera degli oli e dei grassi vege
 
 Nel 2018 è stato fondato un consorzio parallelo denominato RenOils con finalità sovrapponibili al CONOE. Di seguito la composizione delle raccolte con l'apporto approssimativo, purtroppo falsato dalla mancanza di dati per alcuni anni. (2)
 
+{{< chart id="raccolta" type="line" csvfile="oli-alimentari-usati/raccolta.csv" title="Composizione delle raccolta oli alimentari usati per consorzio, 2013-2022." >}}
+
 https://public.flourish.studio/visualisation/17154077/
 
 La raccolta per le attività commerciali e industriali è obbligatoria mentre per il cittadino è facoltativa. I consorzi sono nati storicamente per coprire la raccolta dalla ristorazione, dall'industria e dall'artigianato e non le utenze domestiche la quale raccolta ricade sotto un regime di privativa comunale.
